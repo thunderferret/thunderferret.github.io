@@ -13,11 +13,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seo's Little space"
+title                    : "<h2>Seo's Little space<h2>"
 title_separator          : "-"
 name                     : "Seo The Real_Man"
 description              : "Real_Man do the Right Thing."
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sergeant_Seo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Do the right thing"
+  name             : "<strong>Sergeant_Seo</strong>"
+  avatar           : "http://dcimg5.dcinside.com/dccon.php?no=62b5df2be09d3ca567b1c5bc12d46b394aa3b1058c6e4d0ca41648b65ce9266ec0a31b0ba6451cf5eb836f2f57b6fa07c7ec93ad92056100bfd4aeff37860a3bdf93f48c8996d04a"
+  bio              : "Seo, Studing Philosophy and Programming. Funny Loser"
   location         : "Sogang University"
   email            : vpflt992@gmail.com
   links:
