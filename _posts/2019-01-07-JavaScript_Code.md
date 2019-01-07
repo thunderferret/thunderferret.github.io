@@ -11,10 +11,10 @@ share: true
 ### Why Python is COOL
 
 
-'''python
+```python
 
 for i in range(10):
   print(i)
 
 
-'''
+```
