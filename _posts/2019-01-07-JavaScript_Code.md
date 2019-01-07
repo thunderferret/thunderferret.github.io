@@ -11,7 +11,7 @@ categories: 알고리즘 TIL 재귀호출
 
 <p>재귀함수는 중요하다. 왜냐하면 재귀함수는 리얼루다가 중요하기 때문이다. </p>
 
-##파이썬
+## 파이썬
 ```python
 
 for i in range(10):
@@ -20,7 +20,7 @@ for i in range(10):
 
 ```
 
-##C
+## C
 ```c
 #include <stdio.h>
 
@@ -33,7 +33,7 @@ printf("Hello World!")
 
 ```
 
-##JAVA
+## JAVA
 ```java
 
 public class maze{
