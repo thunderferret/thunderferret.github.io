@@ -1,7 +1,7 @@
 ---
-title: "JavasCript Post"
+title: "알고리즘 1부 : 재귀함수에 대한 이해"
 date: 2019-01-07
-categories: 알고리즘 TIL
+categories: 알고리즘 TIL 재귀호출
 ---
 
 #### 1. 재귀함수
