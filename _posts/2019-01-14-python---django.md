@@ -70,7 +70,7 @@ ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 ### 2 데이터베이스 설정하기
 
-사이트 내에는 다양한 데이터가 저장되고, 이를 저장할 데이터 베이스를 설정하고 관리하는 여러 소프트웨어들이 존재한다. 우리는 이미 `settings.py` 안에 있는 `sqlite3` 를 사용할 것이다.
+사이트 내에는 다양한 데이터가 저장되고, 이를 저장할 데이터 베이스를 설정하고 관리하는 여러 소프트웨어들이 존재한다. 우리는 이미 `settings.py` 안에 설치되어 있는 `sqlite3` 를 사용할 것이다.
 
 블로그에 데이터베이스를 생성하기 위해서 `manage.py` 가 존재하는 디렉토리로 이동한 후 콘솔 창에서 다음과 같이 입력한다.
 
@@ -126,4 +126,4 @@ http://127.0.0.1:8000/
 
 웹 서버를 중지하려면, CTRL + C 를 터미널에 입력하면 된다.
 
-![It_Woreked](https://tutorial.djangogirls.org/ko/django_start_project/images/it_worked2.png/400x200)
+![It_Woreked](https://tutorial.djangogirls.org/ko/django_start_project/images/it_worked2.png)
