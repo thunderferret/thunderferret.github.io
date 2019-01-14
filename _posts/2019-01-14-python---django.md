@@ -7,7 +7,7 @@ tags: [python,Django,TIL,OS X]
 comments: true
 ---
 
-#### 0. mylenv 가상환경 실행하기.
+### 0. mylenv 가상환경 실행하기.
 
 먼저 가상환경을 실행해 줍니다.
 
