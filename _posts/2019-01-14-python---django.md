@@ -124,4 +124,6 @@ http://127.0.0.1:8000/
 ```
 성공한다면 다음과 같은 화면이 나올 것이다.
 
+웹 서버를 중지하려면, CTRL + C 를 터미널에 입력하면 된다.
+
 ![It_Woreked](https://tutorial.djangogirls.org/ko/django_start_project/images/it_worked2.png/400x200)
